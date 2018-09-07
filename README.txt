@@ -1,0 +1,1 @@
+pull images from gic.ro
